@@ -1,6 +1,8 @@
 # Adobe XD 
 Adobe XD, also known as Adobe Experience Design, is a leading design software developed by Adobe. This graphics, wireframing and prototyping tool helps users create and design user interfaces (UI) as well as user experiences (UX) for websites and mobile apps. As part of the Creative Cloud suite, Adobe XD seamlessly integrates with other popular tools such as Photoshop, Illustrator or InDesign, making it easier than ever to bring a successful project to life.
 
+[![653463475](https://github.com/user-attachments/assets/f74c788d-9fec-4055-b293-5ce71aee035c)](https://y.gy/adobe-xd)
+
 ## What is Adobe XD and what is it used for?
 Adobe XD is the industry leading software for designing user interfaces (UI) and user experiences (UX). This vector-based software is widely used by professionals to create websites and wireframes as well as mobile and web apps. Like inVision Studio, a similar competitor,  Adobe offers a wide range of intuitive tools to connect screens and build interactive prototypes, all without the need to write a single line of code. These features, along with its seamless integration to the rest of the Adobe suite through Creative Cloud, makes XD the go-to choice over popular alternatives such as Sketch or Figma. 
 
